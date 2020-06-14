@@ -18,4 +18,5 @@ Run the command python3 - W ignore index.py
 wait for your output...you get the result!
 # 4
 Additionally, to check the output on a website, type python3 server.py to start the python server onto your terminal, and copy the local address onto your browser. It will show a webpage, wherein you can enter the URL to see the output. Check below for a screenshot of the webpage. 
+
 ![Webpage Screenshot](Images/Webpage.png)
